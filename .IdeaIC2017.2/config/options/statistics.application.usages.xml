@@ -1,0 +1,16 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Version_Control].shown" count="1" />
+      <entry feature="execute.Application.Run" count="17" />
+      <entry feature="ide.settings.Project_Structure" count="2" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="8" />
+      <entry feature="project.view.pane.PackagesPane" count="1" />
+      <entry feature="project.view.pane.ProjectPane" count="1" />
+      <entry feature="tips.of.the.day.next" count="124" />
+      <entry feature="tips.of.the.day.prev" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,43 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/CSC 201 ASSIGN 1" />
+        <option value="$USER_HOME$/IdeaProjects/Blockchain" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/CSC 201 ASSIGN 1" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/IdeaProjects/CSC 201 ASSIGN 1" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/Blockchain">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-172.3757.52" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504289318066" />
+              <option name="buildTimestamp" value="1502782807587" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CSC 201 ASSIGN 1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-172.3757.52" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504293296142" />
+              <option name="buildTimestamp" value="1502782848807" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>
