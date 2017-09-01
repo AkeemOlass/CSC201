@@ -11,9 +11,11 @@
     <location key="Github.ShareDialog.0.0.1366.768" x="475" y="242" />
     <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="104" />
     <location key="CommitChangelistDialog2.0.0.1366.768" x="317" y="0" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="966" y="590" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1119" height="159" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1119" height="159" />
     <size key="GridCell.Tab.0.right.0.0.1366.768" width="1119" height="159" />
     <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1119" height="159" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="116" />
   </component>
 </application>
