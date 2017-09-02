@@ -2,11 +2,11 @@
 
 public class Speed {
 
-public  static float velocity  (float x , float y)
+public  static float velocity  (float miles , float totTimehr)
     {
     final float One_Mileto_Km = (float) 1.6;
     float avgspeed;
-        avgspeed = (x * One_Mileto_Km)/ y;
+        avgspeed = (float) ((miles * One_Mileto_Km)/ totTimehr);
         System.out.println("The average speed in km/hr is " + avgspeed);
 
         return avgspeed;
@@ -23,5 +23,7 @@ public static void main (String[] args ){
 
 
 };
+
+
 
 };
