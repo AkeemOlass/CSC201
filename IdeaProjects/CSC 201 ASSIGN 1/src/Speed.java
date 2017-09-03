@@ -7,9 +7,9 @@
  *
  */
 public class Speed {
-/** the class computes the speed of predetermined time and distance*/
+/** the class computes a speed with a predetermined time and distance*/
 public  static float velocity  (float miles , float totTimehr)
-/** the velocity() function computes average speed km/hr */
+/** the velocity() function computes the average speed km/hr */
     {
     final float One_Mileto_Km = (float) 1.6;
     float avgspeed;
@@ -26,7 +26,7 @@ public static void main (String[] args ){
                 float min =  40;
                 float secs = 35;
                 float totTimehr = hour + ( min/60) + (secs / 3600);
-    /**the velocity method calls the velocity function with argd
+    /**the velocity method calls the velocity function with args
      * of miles and time in hours only
      */
     velocity ( miles,totTimehr );
